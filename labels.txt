@@ -1,0 +1,5 @@
+0 Hello
+1 I Love You 
+2 Thanks
+3 Sick
+4 Okay
